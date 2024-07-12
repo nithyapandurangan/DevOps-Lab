@@ -2,12 +2,8 @@ DevOps Lab
 
 Exercise 1
 
-1.  Exploring Git Commands through Collaborative Coding – Basic Git
-    > commands.  
+  Exploring Git Commands through Collaborative Coding – Basic Git
 
-    ****Setting Up Git Repository named "Master"****
-
-<!-- -->
 
 1.  Open your terminal (Command Prompt, Git Bash, etc.).
 
@@ -19,9 +15,10 @@ Exercise 1
 
 4.  Change directory into the new repository:
 
-    *cd Master  
-    *<img src="Pictures/10000001000003D70000020FEC83ACF83BC4BDC0.png"
-    style="width:16.249cm;height:8.71cm" />
+    *cd Master*
+     
+    ![Screenshot from 2024-07-12 13-44-40](https://github.com/user-attachments/assets/870fed3a-2fd0-46a7-ac36-4a7cbde8e455)
+
 
 **Create a new text file named ReadMe.txt using any text editor**
 
@@ -33,8 +30,8 @@ Exercise 1
 
     *git commit -m "Add ReadMe.odt"*
 
-    <img src="Pictures/10000001000004D20000005F26CE40611BFF2115.png"
-    style="width:16.249cm;height:1.251cm" />
+![Screenshot from 2024-07-12 13-53-20](https://github.com/user-attachments/assets/8dd65f03-4e65-4915-bc60-3e0414cddbe8)
+
 
 ##### c. Exploring history
 
@@ -48,8 +45,8 @@ Exercise 1
 
     *git commit -m "Updated ReadMe.odt"*
 
-    <img src="Pictures/10000001000004EC00000074988F86E3FC6CA6D9.png"
-    style="width:16.249cm;height:1.496cm" />
+![Screenshot from 2024-07-12 13-55-35](https://github.com/user-attachments/assets/3fdd8053-a709-4bb1-b8ca-aa9617a35466)
+
 
 ##### d. Branching and merging
 
@@ -81,8 +78,8 @@ branch**
 
     *git merge Updated_ReadMe*
 
-    <img src="Pictures/10000001000006F80000028837EAF20B822C6D91.png"
-    style="width:18.385cm;height:6.678cm" />
+  ![Screenshot from 2024-07-12 14-09-19](https://github.com/user-attachments/assets/b5971674-1a72-4f84-bdb7-140749f07a0d)
+
 
 ##### e. Collaborating with Remote Repositories
 
@@ -183,6 +180,3 @@ check the status of the repository**
 
     *git pull origin master*
 
-<!-- -->
-
-1.  
