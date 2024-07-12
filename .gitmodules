@@ -1,0 +1,3 @@
+[submodule "nike-ui"]
+	path = nike-ui
+	url = https://github.com/nithyapandurangan/nike-ui-clone
